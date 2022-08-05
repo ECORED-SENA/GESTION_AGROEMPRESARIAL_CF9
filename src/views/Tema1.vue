@@ -239,9 +239,7 @@ export default {
   components: {
     BannerInterno,
   },
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()

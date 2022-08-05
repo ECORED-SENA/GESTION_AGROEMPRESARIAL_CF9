@@ -259,6 +259,13 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=7we1vqv9xYY',
     },
+    {
+      tema: 'Producción agrícola',
+      referencia:
+        'TV Agro. (2016). Tecnologías para la producción agrícola - TvAgro por Juan Gonzalo Ángel [video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=FPL-2aHPoL0',
+    },
   ],
   creditos: {
     liderEquipo: [
