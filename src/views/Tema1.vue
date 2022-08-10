@@ -85,7 +85,7 @@
               
               p(numero="2" titulo="Minimización del impacto ambiental") El manejo adecuado de los recursos y la implementación de las buenas prácticas ambientales garantizan que los impactos generados hacia el ambiente sean menores.
               
-              p(numero="3" titulo="Actualización permanente en las normas") La normativa ambiental establece medidas seguridad y las sanciones para garantizar el cumplimiento de las mismas. Es responsabilidad de las empresas agrícolas y pecuarias estar actualizadas e informadas al respecto.
+              p(numero="3" titulo="Actualización permanente en las normas") La normativa ambiental establece medidas de seguridad y las sanciones para garantizar el cumplimiento de las mismas. Es responsabilidad de las empresas agrícolas y pecuarias estar actualizadas e informadas al respecto.
           .col-xxl-6.col-xl-6.col-lg-6.col-md-11.col-sm-11.col-12
             img(src='@/assets/curso/tema1/imagen4.jpg')
         p.my-5 En la siguiente tabla conozca algunas de las normas más importantes con referencia a la temática ambiental:
@@ -130,7 +130,9 @@
     .row.justify-content-center
       .col-xxl-4.col-xl-4.col-lg-4.col-md-11.col-sm-11.col-12.mt-4
         p Se crea para propender por la protección de las actividades agropecuarias y agrícolas de posibles enfermedades y la expansión de contagios que puedan afectar gravemente las actividades en el campo.
-        p.fondo5.px-5.py-4.my-4 Existe un reglamento sanitario internacional (RSI), que se ha convertido en una herramienta para la prevención de la propagación de enfermedades infecciosas; este fue aprobado en la Resolución WHA58 de 2005 durante la 58° Asamblea Mundial de la Salud.  
+        p.fondo5.px-5.py-4.my-4 Existe un reglamento sanitario internacional (RSI), que se ha convertido en una herramienta para la prevención de la propagación de enfermedades infecciosas; este fue aprobado en la Resolución
+          span.text-bold WHA58 de 2005 
+          span durante la 58° Asamblea Mundial de la Salud.  
       .col-xxl-4.col-xl-4.col-lg-4.col-md-11.col-sm-11.col-12.mt-4   
         img(src='@/assets/curso/tema1/imagen5.jpg')
       .col-xxl-4.col-xl-4.col-lg-4.col-md-11.col-sm-11.col-12.mt-4

@@ -60,12 +60,12 @@
               p Proceso en el que se transportan los nutrientes (agua, sales, minerales, etc.) a los lugares de la planta donde serán utilizados o almacenados (hojas, tallos, etc.).
 
       #t_2_2.titulo-segundo.color-acento-contenido
-        h2 Fenología de los cultivos.
+        h2 Fenología de los cultivos
       .row.justify-content-center
         .col-xxl-8.col-xl-8.col-lg-8.col-md-12
           img(src='@/assets/curso/tema2/imagen4.jpg')
         .col-xxl-4.col-xl-4.col-lg-4.col-md-12
-          p La fenología es una palabra que viene del término “fenos” que significa mostrar. De esta manera se entiende cómo la ciencia investiga los cambios que van mostrando los organismos a lo largo del tiempo. En las plantas son los momentos en los que se generan nuevas hojas, se producen flores, frutos o pierden su follaje (Flórez, 2018).
+          p La fenología es una palabra que viene del término “<i>fenos</i>” que significa mostrar. De esta manera se entiende cómo la ciencia investiga los cambios que van mostrando los organismos a lo largo del tiempo. En las plantas son los momentos en los que se generan nuevas hojas, se producen flores, frutos o pierden su follaje (Flórez, 2018).
           .cajon.color-acento-contenido.px-4.pt-4.pb-2.fondo6
             p La fenología es utilizada como un instrumento para el estudio de los factores climáticos en los cultivos, ya que por medio de las observaciones y prácticas se determinan los tiempos de mayor producción, de acuerdo con la zona donde se establece el sistema productivo.  
       .titulo-sexto.color-acento-contenido.my-5
@@ -79,7 +79,7 @@
               p.text-bold.text-center Aplicación de observaciones fisiológicas
           </td>
           <td rowspan="4" class="fondo10 bordederecho anchocol2">
-            p.text-center Variables independientes
+            p.text-center.text-bold Variables independientes
           </td>
           <td class="fondo10" >
             p Comparación de eventos diferentes para la misma especie en la misma localidad en diferentes épocas.
@@ -102,7 +102,7 @@
         </tr>
         <tr>
           <td rowspan="2" class="fondo11 bordederecho anchocol2">
-            p.text-center Variables dependientes
+            p.text-center.text-bold Variables dependientes
           </td>
           <td class="fondo11 bordetop">
             p El uso de eventos biológicos como indicadores de la presencia o ausencia de ciertos factores ambientales.
@@ -115,7 +115,7 @@
         </tr>
     </div>
     #t_2_2.titulo-segundo.color-acento-contenido.my-5
-      h2 Identificación del grado de madurez.
+      h2 Identificación del grado de madurez
     .row.justify-content-center.align-items-center
       .col-xxl-8.col-xl-8.col-lg-8.col-md-12
         p La elección del momento justo de madurez para la cosecha de frutas y hortalizas es una consideración importante de precosecha que tendrá gran influencia en la vida de la poscosecha del producto y en su comercialización. En esta etapa es clave distinguir claramente entre madurez fisiológica y madurez comercial.
@@ -206,7 +206,9 @@
             h4 Gusto
             p Ácido, dulce, salado y amargo.
 
-    p.my-5 Los criterios o instrumentos objetivos mediante los cuales se evalúa el grado de madurez suelen ser:
+    p.my-5 Los criterios o instrumentos 
+      span.text-bold objetivos 
+      span mediante los cuales se evalúa el grado de madurez suelen ser:
     .row.justify-content-center.fondo12.ampliar
       .col-xxl-12.px-5
         img(src='@/assets/curso/tema2/imagen11.svg')

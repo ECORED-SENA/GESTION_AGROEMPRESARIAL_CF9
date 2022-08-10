@@ -39,8 +39,13 @@
             .col
               .row.justify-content-between.align-items-center.py-3
                 .col.mb-3.mb-sm-0.ps-5
-                  p.mb-0 Para adentrase en el estudio de este punto “Manejo de poscosecha” observe con atención el video que aquí se sugiere:
+                  p.mb-0 Para adentrase en el estudio de este punto “
+                    span.text-bold Manejo de poscosecha
+                    span ” observe con atención el video que aquí se sugiere:
                 .col-sm-auto
+                  //--a.boton.fondo14(:href="obtenerLink('/downloads/Video_Manejo_poscosecha.mp4')" target="_blank")
+                    span Ver video
+                    i.fas.fa-play-circle
                   a.boton.fondo14(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
                     span Ver video
                     i.fas.fa-play-circle
@@ -78,7 +83,7 @@
               .col-xxl-3.col-xl-3.col-lg-3.col-md-3.col-sm-5
                 img(src="@/assets/curso/tema3/figura6.svg")
         .titulo-segundo.color-acento-contenido
-          h2 Criterios técnicos.
+          h2 Criterios técnicos
         .row.justify-content-center
           .col-xxl-7.col-xl-7.col-lg-7.col-md-12.col-sm-12.col-12
             img.mt-4(src="@/assets/curso/tema3/imagen2.jpg")
@@ -127,7 +132,7 @@
             img(src="@/assets/curso/tema3/imagen5.jpg")
 
         .titulo-segundo.color-acento-contenido.my-5
-          h2 Limpieza y desinfección.
+          h2 Limpieza y desinfección
         p La función primordial de la limpieza y la desinfección es la 
           span.colortextocontenido.text-bold eliminación de todo tipo de materiales ajenos o extraños presentes en los productos
           span , ya que su presencia disminuye la calidad del insumo generando pérdidas en los valores comerciales.

@@ -277,6 +277,12 @@ export default {
     ],
     contenidoInstruccional: [
       {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
         nombre: 'Karly Cediel',
         cargo: 'Contratista experta temática',
         centro: 'Regional Tolima - Centro Agropecuario La Granja',
@@ -297,12 +303,6 @@ export default {
         cargo: 'Correctora de estilo',
         centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
       },
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
     ],
     desarrolloProducto: [
       {
@@ -312,7 +312,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
@@ -335,7 +335,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'María Camila Ovalle Ospina',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
