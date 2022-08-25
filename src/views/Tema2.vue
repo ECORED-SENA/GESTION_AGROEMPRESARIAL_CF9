@@ -9,34 +9,34 @@
       h1 Producción agrícola
     .row.ampliar.px-5.fondo7.pt-3
       .col-xxl-12
-        p.mb-5 Puede considerarse como el resultado del uso que se hace de los suelos fértiles para lograr, mediante acciones propias, alimentos de consumo como vegetales, hortalizas, cereales, entre otros, mediante diferentes técnicas de producción de acuerdo con el cultivo implementado.
+        p.mb-5(data-aos="fade-down-right") Puede considerarse como el resultado del uso que se hace de los suelos fértiles para lograr, mediante acciones propias, alimentos de consumo como vegetales, hortalizas, cereales, entre otros, mediante diferentes técnicas de producción de acuerdo con el cultivo implementado.
         img(src='@/assets/curso/tema2/imagen1.jpg')
         separador
-        #t_2_1.titulo-segundo.color-acento-contenido
+        #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-down-left")
           h2 2.1. Requerimientos de la producción
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-down-right")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-11.col-sm-11.col-12
         .cajon.color-acento-contenido.p-4.mb-4.fondo4
           p Para la producción agrícola se hace necesario el uso de recursos renovables y no renovables, los cuales tienen un impacto por su uso y, de acuerdo con la normatividad ambiental es deber del productor implementar acciones que vayan encaminadas a la minimización de dichos impactos.
         p Observe con atención el video que se presenta a continuación e identifique los elementos más importantes sobre requerimientos de la producción y lleve el registro de ello en su libreta personal de apuntes:
       .col-xxl-6.col-xl-6.col-lg-6.col-md-11.col-sm-11.col-12
         img(src='@/assets/curso/tema2/imagen2.jpg')
-    figure.mb-5
+    figure.mt-5(data-aos="fade-down-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
-        separador
-    #t_2_2.titulo-segundo.color-acento-contenido
+    separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 2.2. Fisiología y bioquímica
     .row.ampliar.px-5.fondo8.pt-3
       .col-xxl-12
-        .row.justify-content-center
+        .row.justify-content-center(data-aos="fade-down-left")
           .col-xxl-4.col-xl-4.col-lg-4.col-md-11.col-sm-11.col-12.mt-4
             p.p-5.fondo5 Es la relación que existe entre los procesos naturales propios de las plantas con los cambios proporcionados por agentes químicos, ya sea por el aporte de nutrientes o por afectaciones externas que se puedan presentar en los cultivos.
             p La fisiología en las plantas se divide en cuatro procesos principales, los cuales permiten el desarrollo de las mismas; preste atención a la definición de cada uno de ellos:
           .col-xxl-8.col-xl-8.col-lg-8.col-md-11.col-sm-11.col-12.mt-4
             img(src='@/assets/curso/tema2/imagen3.jpg')
-      .row.justify-content-center
+      .row.justify-content-center(data-aos="fade-down")
         .col-xxl-10.col-xl-10.col-lg-10
           ImagenInfografica.color-secundario.mb-5
             template(v-slot:imagen)
@@ -59,21 +59,21 @@
               .h5.mb-2 4. Translocación
               p Proceso en el que se transportan los nutrientes (agua, sales, minerales, etc.) a los lugares de la planta donde serán utilizados o almacenados (hojas, tallos, etc.).
 
-      #t_2_2.titulo-segundo.color-acento-contenido
+      #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
         h2 Fenología de los cultivos
-      .row.justify-content-center
-        .col-xxl-8.col-xl-8.col-lg-8.col-md-12
+      .row.justify-content-center(data-aos="fade-down-left")
+        .col-xxl-8.col-xl-8.col-lg-8.col-md-12.mb-4
           img(src='@/assets/curso/tema2/imagen4.jpg')
         .col-xxl-4.col-xl-4.col-lg-4.col-md-12
           p La fenología es una palabra que viene del término “<i>fenos</i>” que significa mostrar. De esta manera se entiende cómo la ciencia investiga los cambios que van mostrando los organismos a lo largo del tiempo. En las plantas son los momentos en los que se generan nuevas hojas, se producen flores, frutos o pierden su follaje (Flórez, 2018).
           .cajon.color-acento-contenido.px-4.pt-4.pb-2.fondo6
             p La fenología es utilizada como un instrumento para el estudio de los factores climáticos en los cultivos, ya que por medio de las observaciones y prácticas se determinan los tiempos de mayor producción, de acuerdo con la zona donde se establece el sistema productivo.  
-      .titulo-sexto.color-acento-contenido.my-5
+      .titulo-sexto.color-acento-contenido.my-5(data-aos="fade-down-left")
         h5 Tabla 4
         span Aplicación de observaciones fisiológicas
 
     <div class="table-responsive-sm">
-      table
+      table(data-aos="fade-down-right")
         <tr>
           <td rowspan="6" class="fondo9 anchocol1">
               p.text-bold.text-center Aplicación de observaciones fisiológicas
@@ -114,9 +114,9 @@
           </td>
         </tr>
     </div>
-    #t_2_2.titulo-segundo.color-acento-contenido.my-5
+    #t_2_2.titulo-segundo.color-acento-contenido.my-5(data-aos="fade-down-left")
       h2 Identificación del grado de madurez
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-down-right")
       .col-xxl-8.col-xl-8.col-lg-8.col-md-12
         p La elección del momento justo de madurez para la cosecha de frutas y hortalizas es una consideración importante de precosecha que tendrá gran influencia en la vida de la poscosecha del producto y en su comercialización. En esta etapa es clave distinguir claramente entre madurez fisiológica y madurez comercial.
         p Las generalidades que definen y diferencian la 
@@ -170,9 +170,11 @@
             span.visually-hidden Next
       .col-xxl-4.col-xl-4.col-lg-4.col-md-12
         img(src='@/assets/curso/tema2/imagen5.jpg')
-    .cajon.color-acento-contenido.p-4.mb-4.fondobloque1.my-5
+    .cajon.color-acento-contenido.p-4.mb-4.fondobloque1.my-5(data-aos="fade-down-left")
       p Para determinar la madurez óptima de la recolección de los frutos, hortalizas o vegetales se usa una combinación de criterios subjetivos y objetivos. En el método subjetivo se usan los sentidos para evaluar la madurez de los productos, mientras que en el método objetivo está relacionado con el uso de instrumentos y de otras características más técnicas.
-    p.mb-5 Estos son los criterios subjetivos de medición del grado de madurez:
+    p.mb-5(data-aos="fade-down-right") Estos son los criterios
+      span.text-bold subjetivos 
+      span de medición del grado de madurez:
     SlyderF(data-aos="fade-up")(columnas="col-lg-6 col-xl-4 col-md-12")
       .tarjeta-avatar
         img.imgsize(src='@/assets/curso/tema2/imagen6.png')
@@ -206,11 +208,11 @@
             h4 Gusto
             p Ácido, dulce, salado y amargo.
 
-    p.my-5 Los criterios o instrumentos 
+    p.my-5(data-aos="fade-down-right") Los criterios o instrumentos 
       span.text-bold objetivos 
       span mediante los cuales se evalúa el grado de madurez suelen ser:
     .row.justify-content-center.fondo12.ampliar
-      .col-xxl-12.px-5
+      .col-xxl-12.px-5(data-aos="fade")
         img(src='@/assets/curso/tema2/imagen11.svg')
 </template>
 

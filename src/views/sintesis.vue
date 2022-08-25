@@ -3,13 +3,13 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Se ha finalizado el estudio de los contenidos de este componente formativo. En este punto haga un análisis de la estructura que se muestra a continuación. Registre esta síntesis en su libreta personal de apuntes y haga un repaso de los temas que considere necesario. 
-    p.mb-5 ¡Adelante!
+    p(data-aos="fade-down-left") Se ha finalizado el estudio de los contenidos de este componente formativo. En este punto haga un análisis de la estructura que se muestra a continuación. Registre esta síntesis en su libreta personal de apuntes y haga un repaso de los temas que considere necesario. 
+    p.mb-5(data-aos="fade-down-right") ¡Adelante!
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-10.mb-5(data-aos="fade-down-left")
         figure
           img(src="@/assets/curso/sintesis/sintesis.svg", alt="alt")
-      .col-auto
+      .col-auto(data-aos="fade-down-right")
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")

@@ -1,14 +1,14 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: rotation 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 5%
+    right: 3%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 60%
+    right: 15%
 
 
 @keyframes float1
@@ -17,6 +17,12 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes rotation
+  from 
+    transform: rotate(0deg)
+  to 
+    transform: rotate(359deg)
 
 .colortextocontenido
   color: #A3314F !important
@@ -313,3 +319,6 @@
 
 .fondoslider2
   background-color: #EAECC0
+
+.carousel-indicators .active
+  background-color: #FFB500 !important
