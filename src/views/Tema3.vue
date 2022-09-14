@@ -198,7 +198,7 @@
         img(src='@/assets/curso/tema3/imagen12.jpg')
     figure.mb-5(data-aos="fade-down-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/12rBFOxy4Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 3.4 Manejo y disposición de los residuos
