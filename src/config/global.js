@@ -6,7 +6,6 @@ export default {
       'Este componente aborda las etapas del proceso de producción, desde la planificación y elección de materias primas hasta el embalaje, el almacenamiento y el manejo de la poscosecha. Con este componente el aprendiz se capacitará en la adopción y uso de materias primas necesarias y la aplicación de tecnologías propias de los procesos involucrados, de acuerdo con la legislación aplicable para la actividad productiva.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    fondoBannerInterno: require('@/assets/curso/portada/fondo-banner-interno.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
