@@ -130,7 +130,7 @@
     .row.justify-content-center(data-aos="fade-down-left")
       .col-xxl-4.col-xl-4.col-lg-4.col-md-11.col-sm-11.col-12.mt-4
         p Se crea para propender por la protección de las actividades agropecuarias y agrícolas de posibles enfermedades y la expansión de contagios que puedan afectar gravemente las actividades en el campo.
-        p.fondo5.px-5.py-4.my-4 Existe un reglamento sanitario internacional (RSI), que se ha convertido en una herramienta para la prevención de la propagación de enfermedades infecciosas; este fue aprobado en la Resolución
+        p.fondo5.px-5.py-4.my-4 Existe un reglamento sanitario internacional (RSI), que se ha convertido en una herramienta para la prevención de la propagación de enfermedades infecciosas; este fue aprobado en la Resolución 
           span.text-bold WHA58 de 2005 
           span durante la 58° Asamblea Mundial de la Salud.  
       .col-xxl-4.col-xl-4.col-lg-4.col-md-11.col-sm-11.col-12.mt-4   
@@ -154,7 +154,7 @@
           td.bordetabla Por el cual se establece la estructura nacional de vigilancia de medicamentos y alimentos INVIMA.
         tr.fondorow
           td.text-bold.anchocol.text-center Resolución 1229 de 2013
-          td.bordetabla Por el cual se establece el modelo de inspección vigilancia y control sanitario para los productos de uso y consumo.  
+          td.bordetabla Por el cual se establece el modelo de inspección, vigilancia y control sanitario para los productos de uso y consumo.  
         tr
           td.text-bold.anchocol.text-center Resolución 770 de 2014
           td.bordetabla Por la cual se establecen las directrices para la formulación, ejecución, seguimiento y evaluación de los planes nacionales subsectoriales de vigilancia y control de residuos en alimentos.

@@ -172,7 +172,7 @@
         img(src='@/assets/curso/tema2/imagen5.jpg')
     .cajon.color-acento-contenido.p-4.mb-4.fondobloque1.my-5(data-aos="fade-down-left")
       p Para determinar la madurez óptima de la recolección de los frutos, hortalizas o vegetales se usa una combinación de criterios subjetivos y objetivos. En el método subjetivo se usan los sentidos para evaluar la madurez de los productos, mientras que en el método objetivo está relacionado con el uso de instrumentos y de otras características más técnicas.
-    p.mb-5(data-aos="fade-down-right") Estos son los criterios
+    p.mb-5(data-aos="fade-down-right") Estos son los criterios 
       span.text-bold subjetivos 
       span de medición del grado de madurez:
     SlyderF(data-aos="fade-up")(columnas="col-lg-6 col-xl-4 col-md-12")
@@ -208,7 +208,7 @@
             h4 Gusto
             p Ácido, dulce, salado y amargo.
 
-    p.my-5(data-aos="fade-down-right") Los criterios o instrumentos 
+    p.my-5(data-aos="fade") Los criterios o instrumentos 
       span.text-bold objetivos 
       span mediante los cuales se evalúa el grado de madurez suelen ser:
     .row.justify-content-center.fondo12.ampliar

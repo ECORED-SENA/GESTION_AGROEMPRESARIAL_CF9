@@ -39,7 +39,7 @@
             .col
               .row.justify-content-between.align-items-center.py-3
                 .col.mb-3.mb-sm-0.ps-5
-                  p.mb-0 Para adentrase en el estudio de este punto “
+                  p.mb-0 Para adentrarse en el estudio de este punto “
                     span.text-bold Manejo de poscosecha
                     span ” observe con atención el video que aquí se sugiere:
                 .col-sm-auto
@@ -53,7 +53,7 @@
       .col-xxl-12.px-5
         separador
         #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
-          h2 3.1 Acondicionamiento, selección y clasificación del producto
+          h2 3.1. Acondicionamiento, selección y clasificación del producto
         p.mt-5(data-aos="fade-down-left") Para el proceso de acondicionar, seleccionar y clasificar los diferentes productos se debe, antes que nada, determinar en qué lugar adecuado y habilitado se realizará el manejo de los mismos. Este sitio designado deberá garantizar la protección de factores externos como el clima y/o los animales.
         p.mb-5(data-aos="fade-down-right") En la selección y clasificación del producto se deberá tener en cuenta:
 
@@ -173,7 +173,7 @@
                     p.text-center Posterior al proceso de limpieza se realiza una desinfección del producto con apoyo de productos que no alteren su composición. Esta acción se realiza para evitar la presencia de plagas o patógenos que afecten gravemente el producto o a sus consumidores finales.
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
-      h2 3.2 Empaque
+      h2 3.2. Empaque
     .row.just-content-center(data-aos="fade-down-left")
       .col-xxl-7.col-xl-7.col-lg-7.col-md-12.mb-4
         img(src='@/assets/curso/tema3/imagen11.jpg')
@@ -187,7 +187,7 @@
         img(src='@/assets/curso/tema3/figura7.svg')
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-down-left")
-      h2 3.3 Almacenamiento, embalaje y transporte
+      h2 3.3. Almacenamiento, embalaje y transporte
     .row.justify-content-center.mb-5(data-aos="fade-down-right")
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12
         .cajon.color-acento-contenido.p-4.mb-4.fondo4
@@ -201,7 +201,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/12rBFOxy4Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
-      h2 3.4 Manejo y disposición de los residuos
+      h2 3.4. Manejo y disposición de los residuos
     .row.justify-content-center.ampliar.fondo19
       .col-xxl-12.px-5
         p.mb-5(data-aos="fade-down-left") Los residuos sólidos están presentes en todos los sectores productivos y el sector agrícola no es la excepción, por tal razón es importante la elaboración de un plan de gestión integral de residuos sólidos PGIRS en la empresa. 
@@ -241,9 +241,9 @@
                 | Garantizar la salud de las plantas, ecosistemas, personas colaboradoras y consumidores finales.
               li
                 i.fas.fa-angle-right.colortextocontenido
-                | Cumplir la normatividad establecida y vigente .
+                | Cumplir la normatividad establecida y vigente.
         p.my-5(data-aos="fade-down-right") En la actividad agrícola los residuos se clasifican en residuos aprovechables y no aprovechables. En la siguiente figura se muestra la cadena de manejo que debe darse a los tipos de residuos en las fincas, desde su generación hasta su destino final:
-        .titulo-sexto.color-acento-contenido(data-aos="fade-down-left")
+        .titulo-sexto.color-acento-contenido(data-aos="fade")
           h5 Figura 1. 
           span Manejo de residuos
         .row.justify-content-center(data-aos="fade")
