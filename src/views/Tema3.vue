@@ -138,34 +138,34 @@
           span , ya que su presencia disminuye la calidad del insumo generando pérdidas en los valores comerciales.
         p.mb-5(data-aos="fade-down-right") Para que la limpieza sea eficaz se deben tener en cuenta aspectos como:
         .row.justify-content-center(data-aos="fade-down-left")
-          .col-xxl-12.ampliar.px-5.fondo17
-            SlyderF(data-aos="fade-up")(columnas="col-lg-6 col-xl-4 col-md-12")
-              .tarjeta-avatar
+          .col-xxl-12.ampliar.fondo17
+            SlyderF(data-aos="fade-up")(columnas="col-md-6 col-xl-4 col-md-12")
+              .tarjeta-avatar.sizecrd1.slyderF-media
                 img.imgsize1(src='@/assets/curso/tema3/imagen6.png')
                 .tarjeta.otra1.fondoslider2
                   .text-dark.px-5.py-4
                     h4.text-center Asepsia
                     p.text-center Separación de los contaminantes, extracción del material extraño, desinfección de la superficie del producto, almacenamiento en lugares secos y limpios para evitar la recontaminación de los productos.
 
-              .tarjeta-avatar
+              .tarjeta-avatar.sizecrd1.slyderF-media
                 img.imgsize1(src='@/assets/curso/tema3/imagen7.png')
                 .tarjeta.otra1.fondoslider2
                   .text-dark.px-5.py-4
                     h4.text-center Métodos húmedos y secos
                     p.text-center La limpieza se puede realizar de manera húmeda mediante el lavado con agua limpia o por los métodos secos como el tamizado o el cepillado.
-              .tarjeta-avatar
+              .tarjeta-avatar.sizecrd1.slyderF-media
                 img.imgsize1(src='@/assets/curso/tema3/imagen8.png')
                 .tarjeta.otra1.fondoslider2
                   .text-dark.px-5.py-4
                     h4.text-center Secado
                     p.text-center Cuando la limpieza es mediante el uso de agua, se da paso al proceso de secado, en el cual se busca remover el exceso de humedad que puede afectar el producto ocasionado por pudrición.
-              .tarjeta-avatar
+              .tarjeta-avatar.sizecrd1.slyderF-media
                 img.imgsize1(src='@/assets/curso/tema3/imagen9.png')
                 .tarjeta.otra1.fondoslider2
                   .text-dark.px-5.py-4
                     h4.text-center Ventilación
                     p.text-center Sin importar si el método es húmedo o seco (pero sobre todo cuando es húmedo), la ventilación es una acción que favorece el secado o deshumidificación del producto (disposición al aire libre o con ventiladores, secadores o beneficiadores).
-              .tarjeta-avatar
+              .tarjeta-avatar.sizecrd1.slyderF-media
                 img.imgsize1(src='@/assets/curso/tema3/imagen10.png')
                 .tarjeta.otra1.fondoslider2
                   .text-dark.px-5.py-4
