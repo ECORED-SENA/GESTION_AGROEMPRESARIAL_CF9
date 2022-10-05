@@ -33,35 +33,35 @@
     .row.justify-content-center.fondo2.ampliar
       .col-xxl-12.px-5(data-aos="fade-up-left")
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4 col-md-6")
-          .tarjeta-avatar.sizecrd.slyderF-media
+          .tarjeta-avatar.sizecrd
               img(src='@/assets/curso/tema1/avatar1.svg')
               .tarjeta.fondoavatar.sizecrd.sombracrd
                 .text-dark.p-4
                   h4 Personas
                   p Comprender las funciones y la responsabilidad.
 
-          .tarjeta-avatar.sizecrd.slyderF-media
+          .tarjeta-avatar.sizecrd
               img(src='@/assets/curso/tema1/avatar2.svg')
               .tarjeta.fondoavatar.sombracrd
                 .text-dark.p-4
                   h4 Productos
                   p Especificaciones claras en cada fase de la producción.
 
-          .tarjeta-avatar.sizecrd.slyderF-media
+          .tarjeta-avatar.sizecrd
               img(src='@/assets/curso/tema1/avatar3.svg')
               .tarjeta.fondoavatar.sombracrd
                 .text-dark.p-4
                   h4 Procesos
                   p Debidamente documentados, sencillos y coherentes.
 
-          .tarjeta-avatar.sizecrd.slyderF-media
+          .tarjeta-avatar.sizecrd
               img(src='@/assets/curso/tema1/avatar4.svg')
               .tarjeta.fondoavatar.sombracrd
                 .text-dark.p-4
                   h4 Procedimientos
                   p Directrices para emprender procesos críticos.
 
-          .tarjeta-avatar.sizecrd.slyderF-media
+          .tarjeta-avatar.sizecrd
               img(src='@/assets/curso/tema1/avatar5.svg')
               .tarjeta.fondoavatar.sombracrd
                 .text-dark.p-4
