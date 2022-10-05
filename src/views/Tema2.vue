@@ -176,32 +176,32 @@
       span.text-bold subjetivos 
       span de medición del grado de madurez:
     SlyderF(data-aos="fade-up")(columnas="col-lg-6 col-xl-4 col-md-12")
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img.imgsize(src='@/assets/curso/tema2/imagen6.png')
         .tarjeta.otra.fondoslider
           .text-dark.px-5.py-4
             h4 Vista
             p Color, tamaño y forma.
 
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img.imgsize(src='@/assets/curso/tema2/imagen7.png')
         .tarjeta.otra.fondoslider
           .text-dark.px-5.py-4
             h4 Tacto
             p Áspero, suave, blando y duro.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img.imgsize(src='@/assets/curso/tema2/imagen8.png')
         .tarjeta.otra.fondoslider
           .text-dark.px-5.py-4
             h4 Oído 
             p Sonido del producto al tocarlo.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img.imgsize(src='@/assets/curso/tema2/imagen9.png')
         .tarjeta.otra.fondoslider
           .text-dark.px-5.py-4
             h4 Olfato
             p Olor y Aroma.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img.imgsize(src='@/assets/curso/tema2/imagen10.png')
         .tarjeta.otra.fondoslider
           .text-dark.px-5.py-4
